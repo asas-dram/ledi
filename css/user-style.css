@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.c43169 {
+    right: 10%;
+    bottom: 25%;
+}
+
+.c43422 {
+    left: 18%;
+    bottom: 25%;
+}
+
+.c43670 {
+    right: 3%;
+    bottom: 25%;
+}
+
+.c43920 {
+    left: 12%;
+    bottom: 25%;
+}
+
+.c44168 {
+    right: 15%;
+    bottom: 25%;
+}
+
+.c44416 {
+    left: 18%;
+    bottom: 25%;
+}
+
+.c44666 {
+    right: 15%;
+    bottom: 25%;
+}
+
+.c41703 {
+    width: 106px;
+    height: 55px;
+}
+
+.c48643 {
+    color: rgb(0, 0, 0);
+    font-family: "Color Emoji", system-ui, "PingFang SC", PingFangSC-Regular, "Microsoft YaHei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", Arial, Helvetica, sans-serif, "Apple Braille", "Color Emoji Fix";
+    font-size: 14px;
+    text-align: start;
+    word-spacing: 0px;
+    caret-color: rgb(0, 0, 0);
+    white-space-collapse: preserve-breaks;
+    background-color: rgba(0, 0, 0, 0.04);
+}
